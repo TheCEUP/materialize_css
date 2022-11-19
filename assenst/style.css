@@ -4,6 +4,7 @@
 
 html{
     background: linear-gradient(90deg, rgba(239,154,154,1) 0%, rgba(255,241,241,1) 50%, rgba(239,154,154,1) 100%);
+    scroll-behavior: smooth;
 }
 
 .nav-wrapper{
